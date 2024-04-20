@@ -1,4 +1,5 @@
-const data = [{
+const data = [
+  {
   "image" : "profile1.png",
   "id": "E1002",
   "firstName": "John",
